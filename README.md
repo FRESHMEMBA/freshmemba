@@ -19,7 +19,7 @@
 
 ## 🔥 Featured Project
 
-[🎉 Birthday Web App](https://github.com/freshmemba.github.io/bday)  
+[🎉 Birthday Web App](https://freshmemba.github.io/bday)  
 A fun little celebration app I made—check it out!
 
 ## 📊 GitHub Stats
