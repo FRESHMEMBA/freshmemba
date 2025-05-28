@@ -6,7 +6,7 @@
 ## 🚀 About Me
 
 - 💻 I code mostly in **Python, Java, and C++**
-- 💻💻 Sometimes in **HTML, CSS, and JavaScript**
+- 💻📱 Currently learning web dev: **HTML, CSS, and JavaScript**
 - 🧑‍💻 With basic knowledge of **C**, currently leveling up my **C#** game!
 - 📈 **Interests:** Data Science & Software Engineering 🚀
 - 🎹 When I’m not coding, you’ll probably find me making music—**piano🎹, drums🥁**, and especially **bass guitar🎸** are my jam!
@@ -19,7 +19,7 @@
 
 ## 🔥 Featured Project
 
-[🎉 Birthday Web App](https://freshmemba.github.io/bday)  
+[🎉 Birthday Web App](https://github.com/FRESHMEMBA/freshmemba.io/bday)  
 A fun little celebration app I made—check it out!
 
 ## 📊 GitHub Stats
