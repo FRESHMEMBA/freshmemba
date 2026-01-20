@@ -1,7 +1,6 @@
 # Hi there, I’m Sibonelo Mazibuko 👋
 
 🎓 I’m currently pursuing a **BSc in Computer Science** (and loving every bit of it)!  
-🐧 Proud student at Nelson Mandela University (Go Madibaz!)
 
 ## 🚀 About Me
 
